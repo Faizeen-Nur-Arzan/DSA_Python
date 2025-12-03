@@ -1,0 +1,1 @@
+print("Function 1: Linear/BigO(n)\nFunction 2: Constant/BigO(1)")
